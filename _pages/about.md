@@ -10,9 +10,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>信息楼 B524, 太行路 No.55</p>
-    <p>Changping, Beijing</p>
     <p>Currently in UCLouvain, BE</p>
+
+# <p>信息楼 B524, 太行路 No.55</p>
+# <p>Changping, Beijing</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -20,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I completed my undergraduate and master's degrees at the University of Science and Technology Beijing in 2009 and 2012, respectively, and earned my Ph.D. from the University of Chinese Academy of Sciences in 2021. My academic journey was shaped by the guidance of two mentors, Prof. Hailei Zhao and Prof. Xiaodong Wen, along with a "virtual mentor" from UCLouvain, Gian-Marco Rignanese. Inspired by their footsteps, my current research primarily focuses on machine learning and theoretical computation within the field of materials science, often referred to by the trendy term "AI4Science".
+I completed my undergraduate and master's degrees at the University of Science and Technology Beijing in 2009 and 2012, respectively, and earned my Ph.D. from the University of Chinese Academy of Sciences in 2021. My academic journey was shaped by the guidance of two mentors, <a href='https://scholar.google.com/citations?user=gg8veA8AAAAJ&hl=zh-CN'>Prof. Hailei Zhao</a> and Prof. Xiaodong Wen, along with a "virtual mentor" from UCLouvain, <a href='https://perso.uclouvain.be/gian-marco.rignanese/index.html'>Prof. Gian-Marco Rignanese</a>. Inspired by their footsteps, my current research primarily focuses on machine learning and theoretical computation within the field of materials science, often referred to by the trendy term "AI4Science".
 
 "All models are wrong, but some are useful", as the saying goes. Different computational methods exhibit varying errors when calculating the same physical quantities; these discrepancies vary by material and computational approach. A key aspect of my research involves leveraging these error patterns in data-driven models to more accurately predict the physical properties of actual materials. Another primary area of my focus is generative AI. I am currently endeavoring to develop improved descriptors and harness techniques like Variational Autoencoders (VAEs) to guide material design. The descriptors I design are tested in the matbench competition to evaluate their performance. Along this research trajectory, I encounter intriguing minor problems, which I abstract into challenges suitable for masters and undergraduate students, offering a collaborative exploration of the field.
 
