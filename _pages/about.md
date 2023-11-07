@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: echo nc.ude.utsib@gnotoaixuil|rev \n <a href='https://jsjxy.bistu.edu.cn/'>School of Computer</a>, <a href='https://www.bistu.edu.cn/'>Beijing Information Science and Technology University</a>
+subtitle: echo nc.ude.utsib@gnotoaixuil|rev <a href='https://jsjxy.bistu.edu.cn/'>School of Computer</a>, <a href='https://www.bistu.edu.cn/'>Beijing Information Science and Technology University</a>
 
 
 profile:
@@ -10,10 +10,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>信息楼 B 524</p>
-    <p>太行路 No.55</p>
-    <p>Beijing, Changping</p>
-    <p>Currently in UCLouvain as a visiting professor(2023.2-2024.2)</p>
+    <p>信息楼 B524, 太行路 No.55</p>
+    <p>Changping, Beijing</p>
+    <p>Currently in UCLouvain, BE</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
