@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://jsjxy.bistu.edu.cn/'>School of Computer</a>, <a href='https://www.bistu.edu.cn/'>Beijing Information Science and Technology University</a>
-echo nc.ude.utsib@gnotoaixuil|rev
+subtitle: echo nc.ude.utsib@gnotoaixuil|rev \n <a href='https://jsjxy.bistu.edu.cn/'>School of Computer</a>, <a href='https://www.bistu.edu.cn/'>Beijing Information Science and Technology University</a>
+
 
 profile:
   align: right
