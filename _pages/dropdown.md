@@ -1,6 +1,6 @@
 ---
 layout: page
-title: people
+title: Collaborative students
 nav: true
 nav_order: 7
 dropdown: true
