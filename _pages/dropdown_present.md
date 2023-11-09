@@ -6,8 +6,8 @@ nav_order: 6
 dropdown: true
 children:
     - title: Masters
-      permalink: /people/
+      permalink: /people_master_present/
     - title: divider
     - title: Undergraduates
-      permalink: /people/
+      permalink: /people_ug_present/
 ---

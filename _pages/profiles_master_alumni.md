@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /people_master_alumni/
 title: people
-description: members of the lab or group
+description: Master's Alumni
 nav: false
 nav_order: 6
 
