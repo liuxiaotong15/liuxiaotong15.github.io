@@ -18,8 +18,8 @@ profiles:
       <p>School of Computer, Beijing Information Science and Technology University</p>
       <p>email: 2022020654@bistu.edu.cn</p>
   - align: left
-    image: woman_default.png
-    content: about_einstein.md
+    image: cht_profile_picture.png
+    content: cht_profile.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Chen Haotian</p>
