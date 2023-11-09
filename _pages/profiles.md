@@ -10,13 +10,13 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: man_default.png
-    content: about_einstein.md
+    image: wzm_profile_picture.png
+    content: wzm_profile.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Wang Ziming</p>
+      <p>School of Computer, Beijing Information Science and Technology University</p>
+      <p>email: 2022020654@bistu.edu.cn</p>
   - align: left
     image: woman_default.png
     content: about_einstein.md
