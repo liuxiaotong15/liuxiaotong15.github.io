@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: man_default.png
+    image: all_default.png
     content: people/master_with_xiulei.md
     image_circular: false # crops the image to make it circular
     more_info: >
