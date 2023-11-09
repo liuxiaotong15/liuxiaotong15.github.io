@@ -22,7 +22,15 @@ profiles:
     content: about_einstein.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Chen Haotian</p>
+      <p>School of Computer, Beijing Information Science and Technology University</p>
+      <p>email: 2023020604@bistu.edu.cn</p>
+  - align: right
+    image: jbj_profile_picture.png
+    content: jbj_profile.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Jiang Bingjia</p>
+      <p>School of Computer, Beijing Information Science and Technology University</p>
+      <p>email: 664095889@qq.com</p>
 ---
