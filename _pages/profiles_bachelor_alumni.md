@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people_bachelor_alumni/
-title: people
-description: Undergraduate Alumni
+title: 合作同学
+description: 已毕业本科生
 nav: false
 nav_order: 6
 

@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people_ug_present/
-title: people
-description: Undergraduate Students in Progress
+title: 合作同学
+description: 在读本科生
 nav: false
 nav_order: 6
 

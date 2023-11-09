@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people_master_alumni/
-title: people
-description: Master's Alumni
+title: 合作同学
+description: 已毕业硕士生
 nav: false
 nav_order: 6
 

@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people_master_present/
-title: people
-description: Current Master's Candidates
+title: 合作同学
+description: 在读硕士生
 nav: false
 nav_order: 6
 
