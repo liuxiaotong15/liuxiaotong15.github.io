@@ -14,11 +14,11 @@ profiles:
     content: people/2023_bishe.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>2023.3 - 2023.7</p>
+      <p>2023.3-2023.7 毕业设计</p>
   - align: left
     image: man_default.png
     content: people/2022_bishe.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>2022.3 - 2022.7</p>
+      <p>2022.3-2022.7 毕业设计</p>
 ---
