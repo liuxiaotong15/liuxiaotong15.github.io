@@ -14,12 +14,12 @@ profiles:
     content: people/linghui_diao_tanpang.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>成为硕导前合作过的硕士生，由于种种原因没能一起走到最后，道一声“抱歉”</p>
+      <p>成为硕导前合作过的硕士生，由于种种原因没能一起走到最后，道一声“抱歉”，送上祝福</p>
   - align: right
     image: people_pics/zhihui_yuquan_lidan.jpg
     content: people/zhihui_yuquan_lidan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>成为硕导前合作过的硕士生，由于种种原因没能一起走到最后，道一声“抱歉”</p>
+      <p>成为硕导前合作过的硕士生，由于种种原因没能一起走到最后，道一声“抱歉”，送上祝福</p>
 
 ---
