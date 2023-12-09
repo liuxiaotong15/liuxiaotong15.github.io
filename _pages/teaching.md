@@ -20,7 +20,7 @@ nav_order: 5
     * 11月：指导软工2103班苏拜提江·阿不都拉，贾乙，倪芊睿参加“2023年勤信数智人工智能应用大赛决赛名单-赛事A”，以第9名成绩进入决赛（全校本硕预赛前15名进入决赛，唯一本科生团队）
   * 研究生：
     * 6月：行业前沿讲座
-  * 12月7日 在比利时 UCLouvain 大学担任 Yuqing He 博士毕业答辩委员会成员
+  * [12月7日 在比利时 UCLouvain 大学担任 Yuqing He 博士毕业答辩委员会成员](https://cdn.uclouvain.be/groups/cms-editors-sst/affiche-soutenance-publique-de-these-(jpeg)/Affiche%20annonce%20de%20these%20HE%20Yuqing%20corrig%C3%A9e_0.pdf)
 * `2022`
   * 本科生：
     * 软工2103班主任
