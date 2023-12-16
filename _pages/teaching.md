@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: 计算机学院，软件工程系
 nav: true
 nav_order: 5
