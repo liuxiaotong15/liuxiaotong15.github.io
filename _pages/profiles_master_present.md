@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people_master_present/
 title: 合作同学（在读硕士生）
-description: 我不是在最好的时光遇见了你们，而是遇见了你们，我才有了这段最好的时光
+description: 士之读书治学，盖将以脱心志于俗谛之桎梏，真理因得以发扬
 nav: false
 nav_order: 6
 
