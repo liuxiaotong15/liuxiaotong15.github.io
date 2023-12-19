@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people_master_present/
 title: 合作同学（在读硕士生）
-description: 士之读书治学，盖将以脱心志于俗谛之桎梏，真理因得以发扬
+description: 士之读书治学，盖将以脱心志于俗谛之桎梏，真理因此得以发扬
 nav: false
 nav_order: 6
 
