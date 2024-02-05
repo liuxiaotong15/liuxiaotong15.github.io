@@ -10,10 +10,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Currently in UCLouvain, BE</p>
+    <p>XXB524, Changping</p>
 
-# <p>信息楼 B524, 太行路 No.55</p>
 # <p>Changping, Beijing</p>
+# <p>Currently in UCLouvain, BE</p>
+
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
