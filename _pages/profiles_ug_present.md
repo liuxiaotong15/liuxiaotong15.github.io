@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p>2021.9-2025.7 软工2103班 </p>
   - align: right
-    image: people_pics/liufengrui.jpg
+    image: people_pics/stitched_liufengrui.jpg
     content: people/liufengrui.md
     image_circular: false # crops the image to make it circular
     more_info: >
