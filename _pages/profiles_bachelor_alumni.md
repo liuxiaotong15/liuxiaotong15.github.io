@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: people_pics/natingting.jpg
     content: people/2023_bishe.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>2023.3-2023.7 毕业设计</p>
   - align: left
