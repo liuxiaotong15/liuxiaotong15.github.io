@@ -9,6 +9,12 @@ nav_order: 6
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: left
+    image: people_pics/2024_bishe.jpg
+    content: people/2024_bishe.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>2024.3-2024.7 毕业设计</p>
   - align: right
     image: people_pics/natingting.jpg
     content: people/2023_bishe.md

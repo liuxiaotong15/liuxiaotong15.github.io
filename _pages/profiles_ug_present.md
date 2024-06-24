@@ -22,11 +22,5 @@ profiles:
     more_info: >
       <p>软工2103</p>
       <p>大创项目负责人</p>
-  - align: left
-    image: people_pics/2024_bishe.jpg
-    content: people/2024_bishe.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>2024.3-2024.7 毕业设计</p>
 
 ---
