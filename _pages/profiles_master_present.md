@@ -29,5 +29,11 @@ profiles:
     more_info: >
       <p>计研2301</p>
       <p>与杨涛老师合作指导</p>
-
+  - align: left
+    image: people_pics/wyh_profile_picture.png
+    content: people/wyh_profile.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>计研2401, 554693230@qq.com</p>
+      <p>与杨涛老师合作指导</p>
 ---
