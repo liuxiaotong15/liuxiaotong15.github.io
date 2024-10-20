@@ -43,7 +43,7 @@ profiles:
     more_info: >
       <p>计研2403</p>
   - align: left
-    image: people_pics/lsb_profile_picture.png
+    image: people_pics/lsb_profile_picture.jpg
     content: people/lsb_profile.md
     image_circular: false # crops the image to make it circular
     more_info: >
