@@ -37,7 +37,7 @@ profiles:
       <p>计研2401, 554693230@qq.com</p>
       <p>与杨涛老师合作指导</p>
   - align: right
-    image: people_pics/zdn_profile_picture.png
+    image: people_pics/zdn_profile_picture.jpg
     content: people/zdn_profile.md
     image_circular: false # crops the image to make it circular
     more_info: >
