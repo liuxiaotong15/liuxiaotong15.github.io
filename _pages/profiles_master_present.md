@@ -42,4 +42,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>计研2403</p>
+  - align: left
+    image: people_pics/lsb_profile_picture.png
+    content: people/lsb_profile.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>计研2404, 763568748@qq.com</p>
 ---
