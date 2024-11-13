@@ -14,7 +14,7 @@ nav_order: 5
     * 6月12日：担任暑期德国卓越工程之旅（卡尔斯鲁厄理工学院，KIT）评委
     * 6月19日：[指导 北京高校大学生创新创业训练校际合作计划 大创团队（202398038 机器学习辅助液态金属电池高电压电极设计及成本优化，与北京科技大学合作）以第二名成绩，优秀结题](https://liuxiaotong15.github.io/assets/pdf/2023srtp_results.pdf)
     * 9月：软件项目综合实践（软工大四64学时必修）
-    * 11月：专业实习（软件工程专业）
+    * 11月：[专业实习（软件工程专业）](https://liuxiaotong15.github.io/assets/img/2024shixi.jpg)
   * 研究生：
     * 6月：行业前沿讲座（专硕）、学科前沿讲座（学硕）
     * 11月11日：[邀请Gian-Marco Rignanese教授来校讲座](https://liuxiaotong15.github.io/assets/img/GMR1111.jpg)
@@ -27,7 +27,7 @@ nav_order: 5
     * 11月：指导软工2103班苏拜提江·阿不都拉，贾乙，倪芊睿参加“2023年勤信数智人工智能应用大赛决赛名单-赛事A”，以第9名成绩进入决赛（全校本硕预赛前15名进入决赛，唯一本科生团队）
   * 研究生：
     * 6月：行业前沿讲座
-  * [12月7日 在比利时 UCLouvain 大学担任 Yuqing He 博士毕业答辩委员会成员](https://cdn.uclouvain.be/groups/cms-editors-sst/affiche-soutenance-publique-de-these-(jpeg)/Affiche%20annonce%20de%20these%20HE%20Yuqing%20corrig%C3%A9e_0.pdf)
+  * 12月7日: [在比利时 UCLouvain 大学担任 Yuqing He 博士毕业答辩委员会成员](https://cdn.uclouvain.be/groups/cms-editors-sst/affiche-soutenance-publique-de-these-(jpeg)/Affiche%20annonce%20de%20these%20HE%20Yuqing%20corrig%C3%A9e_0.pdf)
 * `2022`
   * 本科生：
     * 软工2103班主任
