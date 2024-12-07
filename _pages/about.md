@@ -10,7 +10,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>XXB524, Changping</p>
+    <p>103, Teaching Building #1</p>
+    <p>Xiaoying, Haidian</p>
 
 # <p>Changping, Beijing</p>
 # <p>Currently in UCLouvain, BE</p>
