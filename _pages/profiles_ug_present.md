@@ -22,5 +22,12 @@ profiles:
     more_info: >
       <p>软工2103</p>
       <p>大创项目负责人</p>
+  - align: right
+    image: people_pics\fangziqian_profile_picture.jpg
+    content: people\fangziqian.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>勤学2401</p>
+      <p>1948716426@qq.com</p>
 
 ---
