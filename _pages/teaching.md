@@ -9,7 +9,8 @@ nav_order: 5
 * `2025`
   * 本科生：
     * 软工2103班主任
-    * 3月：专业英语（软件工程大二下32学时，贯通大三32学时）
+    * 3-4月：专业英语（软件工程大二下32学时，贯通大三32学时）
+    * 3月：主持 北京信息科技大学校级教学改革一般项目(项目编号：2023JGYB24，项目名称：构建更真实企业项目场景的团队综合项目实践课程改革)，发表教改论文[《人工智能时代软件工程教育中的协作与工具实践》](https://www.hanspub.org/journal/paperinformation?paperid=110307)。
   * 研究生：
     * 1月7日：[担任硕士开题答辩组(第6组)答辩评委；答辩学生：翟昊、胡一鸣、李艺航、林霭堃、马赫、石家琦、王海洋、徐李琨](https://liuxiaotong15.github.io/assets/img/250107kaiti.jpg)
     * 1月12日：担任硕士开题答辩组(第15组)答辩评委；答辩学生：姜岳恒、徐润翔、赵雨辰、庞晖、孙亚涛、陈大兴
@@ -26,7 +27,7 @@ nav_order: 5
   * 研究生：
     * 6月：行业前沿讲座（专硕）、学科前沿讲座（学硕）
   * 11月11日：[邀请Gian-Marco Rignanese教授来校讲座](https://liuxiaotong15.github.io/assets/img/GMR1111.jpg)
-  * 11月21日：[获评第十四届青年教师教学基本功比赛三等奖、最佳教案奖、并被授予第八届教学新星荣誉称号](https://liuxiaotong15.github.io/assets/pdf/jxxx.pdf)
+  * 11月21日：[获评第十四届青年教师教学基本功比赛三等奖](https://liuxiaotong15.github.io/assets/pdf/2024sdj.pdf)、[最佳教案奖](https://liuxiaotong15.github.io/assets/pdf/2024zjja.pdf)、[并被授予第八届教学新星荣誉称号](https://liuxiaotong15.github.io/assets/pdf/jxxx.pdf)
   * 11月27日：[获评23-24学年优秀班主任称号](https://liuxiaotong15.github.io/assets/pdf/2324youxiubanzhuren.pdf)
 * `2023`
   * 本科生：
