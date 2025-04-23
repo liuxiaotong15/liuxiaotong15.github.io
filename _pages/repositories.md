@@ -28,7 +28,6 @@ nav_order: 3
   </div>
 
   ---
-
 {% endfor %}
 {% endif %}
 {% endif %}

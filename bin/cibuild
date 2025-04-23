@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bundle exec jekyll build --lsi
+=======
+bundle exec jekyll build
+>>>>>>> upstream/main
