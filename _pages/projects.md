@@ -1,12 +1,17 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 2
-display_categories: [work, fun]
+title: Gallery
+permalink: /gallery/
+description: A photograph is the pause button of life, capturing moments where teamwork becomes friendship.
+nav: true
+nav_order: 5
+display_categories: [fun, work]
 horizontal: false
+images:
+  lightbox2: true
+  photoswipe: true
+  spotlight: true
+  venobox: true
 ---
 
 <!-- pages/projects.md -->

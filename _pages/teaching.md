@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: 计算机学院，软件工程系
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 * `2025`
   * 本科生：
