@@ -29,6 +29,7 @@ nav_order: 4
   * 11月11日：[邀请Gian-Marco Rignanese教授来校讲座](https://liuxiaotong15.github.io/assets/img/GMR1111.jpg)
   * 11月21日：[获评第十四届青年教师教学基本功比赛三等奖](https://liuxiaotong15.github.io/assets/pdf/2024sdj.pdf)、[最佳教案奖](https://liuxiaotong15.github.io/assets/pdf/2024zjja.pdf)、[并被授予第八届教学新星荣誉称号](https://liuxiaotong15.github.io/assets/pdf/jxxx.pdf)
   * 11月27日：[获评23-24学年优秀班主任称号](https://liuxiaotong15.github.io/assets/pdf/2324youxiubanzhuren.pdf)
+  * 2024年 年度师德考核 优秀
 * `2023`
   * 本科生：
     * 软工2103班主任
