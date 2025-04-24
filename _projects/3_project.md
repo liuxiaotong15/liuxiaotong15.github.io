@@ -17,12 +17,12 @@ images:
 
 ## 报告图片（点击图片放大）
 
-本科毕业设计结束
+本科毕业设计结束(20240616)
 <a href="../../assets/img/2024eating/20240616.jpeg" data-lightbox="roadtrip"><img src="../../assets/img/2024eating/thumbs/20240616.jpeg" /></a>
 <br>
-迎接新人
+迎接新人(20240830)
 <a href="../../assets/img/2024eating/20240830.jpeg" data-lightbox="roadtrip"><img src="../../assets/img/2024eating/thumbs/20240830.jpeg" /></a>
 <br>
-年终聚餐
+年终聚餐(20241227)
 <a href="../../assets/img/2024eating/20241227.jpeg" data-lightbox="roadtrip"><img src="../../assets/img/2024eating/thumbs/20241227.jpeg" /></a>
 
