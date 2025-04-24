@@ -90,6 +90,11 @@ ninja.data = [{
           description: "2025年4月22日 昌平",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-2024聚餐合集",
+          title: '2024聚餐合集',
+          description: "学院路 伊喜饺子",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
