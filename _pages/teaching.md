@@ -14,6 +14,7 @@ nav_order: 4
   * 研究生：
     * 1月7日：[担任硕士开题答辩组(第6组)答辩评委；答辩学生：翟昊、胡一鸣、李艺航、林霭堃、马赫、石家琦、王海洋、徐李琨](https://liuxiaotong15.github.io/assets/img/250107kaiti.jpg)
     * 1月12日：担任硕士开题答辩组(第15组)答辩评委；答辩学生：姜岳恒、徐润翔、赵雨辰、庞晖、孙亚涛、陈大兴
+    * 4月25日：担任硕士毕业答辩评委；答辩学生：[乔塬心、石靖凯、王天阔、陈岩松、许治新、王萌、龚亚东、李志海、梅金庄、王慧江、李朝阳](https://liuxiaotong15.github.io/assets/img/2025_master_defense/all.jpeg)。课题组同学毕业答辩：[王滋明](https://liuxiaotong15.github.io/assets/img/2025_master_defense/ziming.jpeg)、[王亚鑫](https://liuxiaotong15.github.io/assets/img/2025_master_defense/yaxin.jpeg)
     * 6月：行业前沿讲座（专硕）、学科前沿讲座（学硕）
 * `2024`
   * 本科生：
