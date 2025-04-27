@@ -95,6 +95,11 @@ ninja.data = [{
           description: "学院路 伊喜饺子",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-journal-of-materials-informatics-编委会",
+          title: 'Journal of Materials Informatics 编委会',
+          description: "2025年4月26-27日 山西 太原",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
