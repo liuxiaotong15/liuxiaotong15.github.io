@@ -80,7 +80,12 @@ ninja.data = [{
           section: "News",},{id: "news-a-report-from-ijmmm",
           title: 'A report from IJMMM.',
           description: "",
-          section: "News",},{id: "projects-国家科学评论-邀请报告",
+          section: "News",},{id: "projects-the-innovation杂志-创新材料论坛-2025-邀请报告",
+          title: '《The Innovation杂志 创新材料论坛 2025》邀请报告',
+          description: "2025年5月23-25日 浙江 杭州",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/0_project/";
+            },},{id: "projects-国家科学评论-邀请报告",
           title: '《国家科学评论》邀请报告',
           description: "2025年4月19-20日 湖北 武汉",
           section: "Projects",handler: () => {
