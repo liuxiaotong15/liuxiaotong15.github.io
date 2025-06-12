@@ -110,6 +110,16 @@ ninja.data = [{
           description: "2025年5月6日 北信科沙河",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-2024",
+          title: '2024',
+          description: "2024年6月18日 北信科沙河",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{id: "projects-2025",
+          title: '2025',
+          description: "2025年6月12日 北信科沙河",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
