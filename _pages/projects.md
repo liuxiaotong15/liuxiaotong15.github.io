@@ -5,7 +5,7 @@ permalink: /gallery/
 description: A photograph is the pause button of life, capturing moments where teamwork becomes friendship.
 nav: true
 nav_order: 5
-display_categories: [fun, work]
+display_categories: [fun, work, graduates]
 horizontal: false
 images:
   lightbox2: true
