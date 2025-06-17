@@ -27,4 +27,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>2022.3-2022.7 毕业设计</p>
+  - align: right
+    image: people_pics/2025_bishe.jpg
+    content: people/2025_bishe.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>2025.3-2025.7 毕业设计</p>
 ---

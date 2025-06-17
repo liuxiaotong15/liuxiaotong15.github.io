@@ -23,4 +23,10 @@ images:
 <a href="../../assets/img/graduates/2025/3.jpeg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/3.jpeg" /></a>
 <a href="../../assets/img/graduates/2025/4.jpeg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/4.jpeg" /></a>
 <a href="../../assets/img/graduates/2025/5.jpeg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/5.jpeg" /></a>
+<a href="../../assets/img/graduates/2025/6.jpg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/6.jpg" /></a>
+<a href="../../assets/img/graduates/2025/7.jpg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/7.jpg" /></a>
+<a href="../../assets/img/graduates/2025/8.jpg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/8.jpg" /></a>
+<a href="../../assets/img/graduates/2025/9.jpg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/9.jpg" /></a>
+<a href="../../assets/img/graduates/2025/10.jpg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/10.jpg" /></a>
+<a href="../../assets/img/graduates/2025/11.jpg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/11.jpg" /></a>
 
