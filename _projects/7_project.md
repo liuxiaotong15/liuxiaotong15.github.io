@@ -29,4 +29,5 @@ images:
 <a href="../../assets/img/graduates/2025/9.jpg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/9.jpg" /></a>
 <a href="../../assets/img/graduates/2025/10.jpg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/10.jpg" /></a>
 <a href="../../assets/img/graduates/2025/11.jpg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/11.jpg" /></a>
+<a href="../../assets/img/graduates/2025/12.jpeg" data-lightbox="roadtrip"><img src="../../assets/img/graduates/2025/thumbs/12.jpeg" /></a>
 
