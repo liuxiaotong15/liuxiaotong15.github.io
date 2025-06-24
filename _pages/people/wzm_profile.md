@@ -7,3 +7,4 @@
 [入学时简历](../../assets/pdf/ziming_resume_in.doc)
 [毕业时简历](../../assets/pdf/ziming_resume_out.pdf)
 [2025年6月12日获评优秀毕业生](../../assets/pdf/2025ziming_chengsiqi_youxiu.pdf)
+[硕士论文](../../assets/pdf/wangziming_thesis.pdf)
