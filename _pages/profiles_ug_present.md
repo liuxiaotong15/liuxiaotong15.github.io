@@ -22,4 +22,10 @@ profiles:
     more_info: >
       <p>软工2103</p>
       <p>大创项目负责人</p>
+ - align: left
+    image: people_pics/lairuilin.jpg
+    content: people/lairuilin.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p></p>
 ---
