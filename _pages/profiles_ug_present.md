@@ -9,19 +9,12 @@ nav_order: 6
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: left
-    image: people_pics/rg2103.jpg
-    content: people/rg2103.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>2021.9-2025.7 软工2103班 </p>
   - align: right
-    image: people_pics/stitched_liufengrui.jpg
-    content: people/liufengrui.md
+    image: people_pics/rg2103.jpg
+    content: people/jl2501.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>软工2103</p>
-      <p>大创项目负责人</p>
+      <p>2025.9-2029.7 计类实验2501班 </p>
   - align: left
     image: people_pics/lairuilin.jpg
     content: people/lairuilin.md

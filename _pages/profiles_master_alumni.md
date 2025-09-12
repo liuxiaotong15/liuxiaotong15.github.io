@@ -21,5 +21,11 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>成为硕导前合作过的硕士生，由于种种原因没能一起走到最后，道一声“抱歉”，送上祝福</p>
-
+  - align: right
+    image: people_pics/wzm_profile_picture.png
+    content: people/wzm_profile.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>计研2203, 2022020654@bistu.edu.cn</p>
+      <p>与杨涛老师合作指导</p>
 ---
