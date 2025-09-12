@@ -41,4 +41,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>计研2404, 763568748@qq.com</p>
+  - align: right
+    image: people_pics/ykl_profile_picture.png
+    content: people/ykl_profile.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>计研2504, 1274853269@qq.com</p>
 ---
