@@ -42,9 +42,15 @@ profiles:
     more_info: >
       <p>计研2404, 763568748@qq.com</p>
   - align: right
+    image: people_pics/fq_profile_picture.png
+    content: people/fq_profile.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>计研2504, 2572443758@qq.com</p>
+  - align: left
     image: people_pics/zdxl_profile_picture.png
     content: people/zdxl_profile.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>计研2505, 1571203446@qq.com</p>
----
+
