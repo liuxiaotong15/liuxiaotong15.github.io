@@ -33,4 +33,17 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>2022.3-2022.7 毕业设计</p>
+  - align: right
+    image: people_pics/rg2103.jpg
+    content: people/rg2103.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>2021.9-2025.7 软工2103班 </p>
+  - align: left
+    image: people_pics/stitched_liufengrui.jpg
+    content: people/liufengrui.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>软工2103</p>
+      <p>大创项目负责人</p>
 ---
