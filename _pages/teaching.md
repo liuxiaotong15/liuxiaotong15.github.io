@@ -21,6 +21,7 @@ nav_order: 4
     * 4月25日：担任硕士毕业答辩评委；答辩学生：[乔塬心、石靖凯、王天阔、陈岩松、许治新、王萌、龚亚东、李志海、梅金庄、王慧江、李朝阳](https://liuxiaotong15.github.io/assets/img/2025_master_defense/all.jpeg)。课题组同学毕业答辩：[王滋明](https://liuxiaotong15.github.io/assets/img/2025_master_defense/ziming.jpeg)、[王亚鑫](https://liuxiaotong15.github.io/assets/img/2025_master_defense/yaxin.jpeg)
     * 6月：行业前沿讲座（专硕）、学科前沿讲座（学硕）
   * 7月8日至7月11日：赴 [河南焦裕禄干部学院](../assets/img/2025jiaoyulu/jiaoyulu.pdf) 参加[“寻足迹悟初心 淬青春担使命”专题培训班](../assets/img/2025jiaoyulu/jiaoyulu1.jpeg)
+  * 指导“灵眸译境”团队获[“青创北京”2025年“挑战杯”人工智能+专项赛 特等奖](../assets/pdf/2025cxb.pdf)
 * `2024`
   * 本科生：
     * 软工2103班主任
