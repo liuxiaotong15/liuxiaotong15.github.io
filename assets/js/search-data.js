@@ -120,6 +120,11 @@ ninja.data = [{
           description: "2025年6月12日 北信科沙河",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-团建-西三旗-万象汇-观影-浪浪人生-南京大排档",
+          title: '团建 西三旗 万象汇 观影 浪浪人生+南京大排档',
+          description: "2025年11月7日 昌平",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
