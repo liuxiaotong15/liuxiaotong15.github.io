@@ -131,6 +131,11 @@ ninja.data = [{
           description: "2025年11月7日 昌平",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
+            },},{id: "projects-年终聚餐-伊喜饺子",
+          title: '年终聚餐 伊喜饺子',
+          description: "2025年12月28日 学院路 伊喜饺子",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
