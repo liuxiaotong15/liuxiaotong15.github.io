@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: echo nc.ude.utsib@gnotoaixuil|rev, <a href='https://jsjxy.bistu.edu.cn/'>School of Computer</a>, <a href='https://www.bistu.edu.cn/'>Beijing Information Science and Technology University</a>
+subtitle: echo nc.ude.utsib@gnotoaixuil|rev, <a href='https://jsjxy.bistu.edu.cn/'>College of Computer Science</a>, <a href='https://www.bistu.edu.cn/'>Beijing Information Science and Technology University</a>
 
 profile:
   align: right
