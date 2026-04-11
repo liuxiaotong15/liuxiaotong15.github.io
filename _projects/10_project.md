@@ -2,7 +2,7 @@
 layout: post
 title: 首届中国“AI+新材料”大会
 description: 2026年4月9-12日 广东 广州
-img: assets/img/template_error.png
+img: assets/img/2026guangzhou/thumbs/4.jpg
 importance: 1
 category: work
 related_publications: false
@@ -17,4 +17,11 @@ images:
 
 ## 大会照片（点击图片放大）
 
-待上传...
+<a href="../../assets/img/2026guangzhou/1.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/1.jpg" /></a>
+<a href="../../assets/img/2026guangzhou/2.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/2.jpg" /></a>
+<a href="../../assets/img/2026guangzhou/3.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/3.jpg" /></a>
+<a href="../../assets/img/2026guangzhou/4.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/4.jpg" /></a>
+<a href="../../assets/img/2026guangzhou/5.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/5.jpg" /></a>
+<a href="../../assets/img/2026guangzhou/6.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/6.jpg" /></a>
+<a href="../../assets/img/2026guangzhou/7.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/7.jpg" /></a>
+<a href="../../assets/img/2026guangzhou/8.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/8.jpg" /></a>
