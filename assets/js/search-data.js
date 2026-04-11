@@ -91,6 +91,11 @@ ninja.data = [{
           description: "2025年5月23-25日 浙江 杭州",
           section: "Projects",handler: () => {
               window.location.href = "/projects/0_project/";
+            },},{id: "projects-首届中国-ai-新材料-大会",
+          title: '首届中国“AI+新材料”大会',
+          description: "2026年4月9-12日 广东 广州",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
             },},{id: "projects-国家科学评论-邀请报告",
           title: '《国家科学评论》邀请报告',
           description: "2025年4月19-20日 湖北 武汉",
