@@ -2,6 +2,7 @@
 layout: post
 title: 体育竞技 篮球赛 冠军
 description: 2025年5月6日 北信科沙河
+event_date: 2025-05-06
 img: assets/img/202505basketball/thumbs/3.jpg
 importance: 2
 category: fun

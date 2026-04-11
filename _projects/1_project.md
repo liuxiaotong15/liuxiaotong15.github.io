@@ -2,6 +2,7 @@
 layout: post
 title: 《国家科学评论》邀请报告
 description: 2025年4月19-20日 湖北 武汉
+event_date: 2025-04-19
 img: assets/img/202504wuhan/thumbs/1.jpeg
 importance: 1
 category: work

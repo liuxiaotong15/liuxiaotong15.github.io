@@ -2,6 +2,7 @@
 layout: post
 title: 团建 马潮渔场 垂钓
 description: 2025年4月22日 昌平
+event_date: 2025-04-22
 img: assets/img/202504fishing/thumbs/0.jpeg
 importance: 5
 category: fun

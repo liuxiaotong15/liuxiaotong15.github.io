@@ -2,6 +2,7 @@
 layout: post
 title: 《The Innovation杂志 创新材料论坛 2025》邀请报告
 description: 2025年5月23-25日 浙江 杭州
+event_date: 2025-05-23
 img: assets/img/202505hangzhou/thumbs/1.png
 importance: 1
 category: work

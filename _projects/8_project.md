@@ -2,6 +2,7 @@
 layout: post
 title: 团建 西三旗 万象汇 观影 浪浪人生+南京大排档
 description: 2025年11月7日 昌平
+event_date: 2025-11-07
 img: assets/img/20251107/thumbs/movie051107.jpeg
 importance: 1
 category: fun
