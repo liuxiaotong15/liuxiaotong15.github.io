@@ -2,6 +2,7 @@
 layout: post
 title: 2025
 description: 2025年6月12日 北信科沙河
+event_date: 2025-06-12
 img: assets/img/graduates/2025/thumbs/0.jpeg
 importance: -2
 category: graduates

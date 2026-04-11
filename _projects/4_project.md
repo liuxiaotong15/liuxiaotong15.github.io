@@ -2,6 +2,7 @@
 layout: post
 title: Journal of Materials Informatics 编委会
 description: 2025年4月26-27日 山西 太原
+event_date: 2025-04-26
 img: assets/img/2025taiyuan/thumbs/self.jpeg
 importance: 1
 category: work

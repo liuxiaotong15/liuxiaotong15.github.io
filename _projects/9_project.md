@@ -2,6 +2,7 @@
 layout: post
 title: 年终聚餐 伊喜饺子
 description: 2025年12月28日 学院路 伊喜饺子
+event_date: 2025-12-28
 img: assets/img/20251228/thumbs/yearend-20251228.jpeg
 importance: 0
 category: fun

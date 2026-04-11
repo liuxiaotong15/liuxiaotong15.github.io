@@ -2,6 +2,7 @@
 layout: post
 title: 2024聚餐合集
 description: 学院路 伊喜饺子
+event_date: 2024-12-27
 img: assets/img/2024eating/thumbs/20241227.jpeg
 importance: 5
 category: fun

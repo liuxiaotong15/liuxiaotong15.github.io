@@ -2,6 +2,7 @@
 layout: post
 title: 首届中国“AI+新材料”大会
 description: 2026年4月9-12日 广东 广州
+event_date: 2026-04-09
 img: assets/img/2026guangzhou/thumbs/4.jpg
 importance: 1
 category: work

@@ -2,6 +2,7 @@
 layout: post
 title: 2024
 description: 2024年6月18日 北信科沙河
+event_date: 2024-06-18
 img: assets/img/graduates/2024/thumbs/0.jpeg
 importance: -1
 category: graduates
