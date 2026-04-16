@@ -26,3 +26,4 @@ images:
 <a href="../../assets/img/2026guangzhou/6.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/6.jpg" /></a>
 <a href="../../assets/img/2026guangzhou/7.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/7.jpg" /></a>
 <a href="../../assets/img/2026guangzhou/8.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/8.jpg" /></a>
+<a href="../../assets/img/2026guangzhou/9.jpg" data-lightbox="roadtrip"><img src="../../assets/img/2026guangzhou/thumbs/9.jpg" /></a>
