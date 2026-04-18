@@ -96,6 +96,11 @@ ninja.data = [{
           description: "2026年4月9-12日 广东 广州",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
+            },},{id: "projects-uclouvain-博士毕业答辩委员会-yuqing-he",
+          title: 'UCLouvain 博士毕业答辩委员会（Yuqing He）',
+          description: "2023年12月7日 比利时 Louvain-la-Neuve",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
             },},{id: "projects-国家科学评论-邀请报告",
           title: '《国家科学评论》邀请报告',
           description: "2025年4月19-20日 湖北 武汉",
