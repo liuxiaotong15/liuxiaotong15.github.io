@@ -59,4 +59,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>2026级拟录取硕士, 2836961497@qq.com</p>
+  - align: left
+    image: people_pics/zcy_profile_picture.png
+    content: people/zcy_profile.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>2026级拟录取硕士, 15071114315@163.com</p>
 ---
