@@ -101,8 +101,8 @@ ninja.data = [{
           description: "2023年12月7日 比利时 Louvain-la-Neuve",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
-            },},{id: "projects-海淀区西郊宾馆保龄球",
-          title: '海淀区西郊宾馆保龄球',
+            },},{id: "projects-团建-海淀区西郊宾馆保龄球",
+          title: '团建 海淀区西郊宾馆保龄球',
           description: "2026年4月28日 北京 海淀区西郊宾馆",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
