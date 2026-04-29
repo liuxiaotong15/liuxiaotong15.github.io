@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 海淀区西郊宾馆保龄球
+title: 团建 海淀区西郊宾馆保龄球
 description: 2026年4月28日 北京 海淀区西郊宾馆
 event_date: 2026-04-28
 img: assets/img/20260428-bowling/thumbs/1.jpg
