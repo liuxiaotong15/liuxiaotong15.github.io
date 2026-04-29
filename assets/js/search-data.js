@@ -101,6 +101,11 @@ ninja.data = [{
           description: "2023年12月7日 比利时 Louvain-la-Neuve",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
+            },},{id: "projects-海淀区西郊宾馆保龄球",
+          title: '海淀区西郊宾馆保龄球',
+          description: "2026年4月28日 北京 海淀区西郊宾馆",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
             },},{id: "projects-国家科学评论-邀请报告",
           title: '《国家科学评论》邀请报告',
           description: "2025年4月19-20日 湖北 武汉",
