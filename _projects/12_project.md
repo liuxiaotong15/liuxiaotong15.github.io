@@ -3,7 +3,7 @@ layout: post
 title: 海淀区西郊宾馆保龄球
 description: 2026年4月28日 北京 海淀区西郊宾馆
 event_date: 2026-04-28
-img: assets/img/20260428-bowling/1.jpg
+img: assets/img/20260428-bowling/thumbs/1.jpg
 importance: 1
 category: fun
 related_publications: false
@@ -20,8 +20,8 @@ images:
 
 ## 保龄球活动照片（点击图片放大）
 
-<a href="../../assets/img/20260428-bowling/1.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260428-bowling/1.jpg" /></a>
-<a href="../../assets/img/20260428-bowling/2.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260428-bowling/2.jpg" /></a>
-<a href="../../assets/img/20260428-bowling/3.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260428-bowling/3.jpg" /></a>
-<a href="../../assets/img/20260428-bowling/4.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260428-bowling/4.jpg" /></a>
-<a href="../../assets/img/20260428-bowling/5.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260428-bowling/5.jpg" /></a>
+<a href="../../assets/img/20260428-bowling/1.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260428-bowling/thumbs/1.jpg" /></a>
+<a href="../../assets/img/20260428-bowling/2.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260428-bowling/thumbs/2.jpg" /></a>
+<a href="../../assets/img/20260428-bowling/3.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260428-bowling/thumbs/3.jpg" /></a>
+<a href="../../assets/img/20260428-bowling/4.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260428-bowling/thumbs/4.jpg" /></a>
+<a href="../../assets/img/20260428-bowling/5.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260428-bowling/thumbs/5.jpg" /></a>
