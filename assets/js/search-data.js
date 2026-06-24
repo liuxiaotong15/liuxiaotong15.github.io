@@ -106,6 +106,11 @@ ninja.data = [{
           description: "2026年4月28日 北京 海淀区西郊宾馆",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project/";
+            },},{id: "projects-2026",
+          title: '2026',
+          description: "2026年6月24日 北信科小营校区",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_project/";
             },},{id: "projects-国家科学评论-邀请报告",
           title: '《国家科学评论》邀请报告',
           description: "2025年4月19-20日 湖北 武汉",
