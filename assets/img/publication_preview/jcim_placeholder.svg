@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">JCIM publication placeholder</title>
+  <desc id="desc">Placeholder cover art for a Journal of Chemical Information and Modeling publication.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="70%" cy="30%" r="55%">
+      <stop offset="0%" stop-color="#f8fafc" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#f8fafc" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#glow)"/>
+  <g opacity="0.35" stroke="#bfdbfe" stroke-width="4" fill="none">
+    <path d="M155 470 C315 240 470 575 630 330 S930 210 1050 455"/>
+    <path d="M170 205 C310 335 425 120 560 250 S835 560 1040 215"/>
+  </g>
+  <g fill="#f8fafc" opacity="0.92">
+    <circle cx="180" cy="460" r="22"/>
+    <circle cx="330" cy="265" r="17"/>
+    <circle cx="500" cy="520" r="19"/>
+    <circle cx="650" cy="320" r="24"/>
+    <circle cx="835" cy="275" r="16"/>
+    <circle cx="1035" cy="455" r="21"/>
+    <circle cx="255" cy="255" r="15"/>
+    <circle cx="445" cy="160" r="20"/>
+    <circle cx="790" cy="520" r="18"/>
+    <circle cx="1010" cy="215" r="16"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#ffffff">
+    <text x="90" y="155" font-size="64" font-weight="700">Journal of Chemical</text>
+    <text x="90" y="225" font-size="64" font-weight="700">Information and Modeling</text>
+    <text x="90" y="305" font-size="38" opacity="0.9">Publication cover placeholder</text>
+    <text x="90" y="585" font-size="46" font-weight="700">Feature Importance Stability</text>
+  </g>
+</svg>
