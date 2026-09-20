@@ -3,6 +3,7 @@ layout: post
 title: 团建 铭澜（北京）路亚休闲垂钓俱乐部 钓鱼
 description: 2026年9月20日 北京 铭澜（北京）路亚休闲垂钓俱乐部
 event_date: 2026-09-20
+img: assets/img/20260920-fishing/thumbs/1_25pct.jpg
 importance: 1
 category: fun
 related_publications: false
@@ -17,4 +18,10 @@ images:
 
 ## 团建照片（点击图片放大）
 
-<!-- 照片上传后，在此处按数字顺序添加原图与缩略图。 -->
+<a href="../../assets/img/20260920-fishing/1.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260920-fishing/thumbs/1_25pct.jpg" /></a>
+<a href="../../assets/img/20260920-fishing/2.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260920-fishing/thumbs/2_25pct.jpg" /></a>
+<a href="../../assets/img/20260920-fishing/3.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260920-fishing/thumbs/3_25pct.jpg" /></a>
+<a href="../../assets/img/20260920-fishing/4.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260920-fishing/thumbs/4_25pct.jpg" /></a>
+<a href="../../assets/img/20260920-fishing/5.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260920-fishing/thumbs/5_25pct.jpg" /></a>
+<a href="../../assets/img/20260920-fishing/6.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260920-fishing/thumbs/6_25pct.jpg" /></a>
+<a href="../../assets/img/20260920-fishing/7.jpg" data-lightbox="roadtrip"><img src="../../assets/img/20260920-fishing/thumbs/7_25pct.jpg" /></a>
