@@ -120,6 +120,11 @@ ninja.data = [{
           description: "2026年6月24日 北信科小营校区",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
+            },},{id: "projects-团建-铭澜-北京-路亚休闲垂钓俱乐部-钓鱼",
+          title: '团建 铭澜（北京）路亚休闲垂钓俱乐部 钓鱼',
+          description: "2026年9月20日 北京 铭澜（北京）路亚休闲垂钓俱乐部",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_project/";
             },},{id: "projects-国家科学评论-邀请报告",
           title: '《国家科学评论》邀请报告',
           description: "2025年4月19-20日 湖北 武汉",
