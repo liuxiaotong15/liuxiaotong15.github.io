@@ -125,6 +125,21 @@ ninja.data = [{
           description: "2026年9月20日 北京 铭澜（北京）路亚休闲垂钓俱乐部",
           section: "Projects",handler: () => {
               window.location.href = "/projects/14_project/";
+            },},{id: "projects-2026年先进功能材料与技术国际会议",
+          title: '2026年先进功能材料与技术国际会议',
+          description: "2026年10月23-25日 广东 东莞",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/15_project/";
+            },},{id: "projects-gian-marco-rignanese-教授受邀来访学术交流",
+          title: 'Gian-Marco Rignanese 教授受邀来访学术交流',
+          description: "2026年10月26日 北京",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/16_project/";
+            },},{id: "projects-gian-marco-rignanese-教授来访期间的校园活动与聚餐",
+          title: 'Gian-Marco Rignanese 教授来访期间的校园活动与聚餐',
+          description: "2026年10月26日 北京",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/17_project/";
             },},{id: "projects-国家科学评论-邀请报告",
           title: '《国家科学评论》邀请报告',
           description: "2025年4月19-20日 湖北 武汉",
