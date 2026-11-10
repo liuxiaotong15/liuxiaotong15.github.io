@@ -30,6 +30,7 @@ function progressBarSetup() {
       progressBar.attr({ value: getCurrentScrollPosition() });
     });
     $(window).on("resize", initializeProgressElement);
+    $("#navbarNav").on("hidden.bs.collapse", initializeProgressElement);
   } else {
     resizeProgressBar();
     $(document).on("scroll", resizeProgressBar);
