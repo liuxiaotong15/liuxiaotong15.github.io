@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
+        },{id: "nav-teaching-amp-service",
+          title: "Teaching &amp; Service",
           description: "计算机学院，软件工程系",
           section: "Navigation",
           handler: () => {
@@ -63,15 +63,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-a-report-from-bistu-news",
+            },},{id: "news-a-report-from-bistu-news",
           title: 'A report from BISTU news.',
           description: "",
           section: "News",},{id: "news-a-report-from-prof-siqi-shi",
