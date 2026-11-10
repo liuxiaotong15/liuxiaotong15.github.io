@@ -126,8 +126,20 @@ try {
   await page.getByRole("button", { name: "Toggle navigation" }).click();
   await page.waitForFunction(() => document.querySelector("#navbarNav").classList.contains("show"));
   await page.setViewportSize({ width: 1024, height: 800 });
+  await page.waitForFunction(() => {
+    const height = document.querySelector("#navbar").getBoundingClientRect().height;
+    return (
+      document.querySelector("#navbarNav").classList.contains("show") &&
+      height > 64 &&
+      Math.abs(parseFloat(getComputedStyle(document.body).paddingTop) - height) <= 1
+    );
+  });
   await page.getByRole("button", { name: "Toggle navigation" }).click();
-  await page.waitForFunction(() => !document.querySelector("#navbarNav").classList.contains("collapsing"));
+  await page.locator('#navbar a[href="/teaching/"]').waitFor({ state: "hidden" });
+  await page.waitForFunction(() => {
+    const menu = document.querySelector("#navbarNav");
+    return !menu.classList.contains("show") && !menu.classList.contains("collapsing");
+  });
   await page.waitForFunction(() => {
     const height = document.querySelector("#navbar").getBoundingClientRect().height;
     return Math.abs(parseFloat(getComputedStyle(document.body).paddingTop) - height) <= 1;
