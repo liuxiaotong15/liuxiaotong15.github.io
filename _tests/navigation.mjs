@@ -118,7 +118,11 @@ try {
   const toggleRect = await page.locator("#light-toggle").boundingBox();
   assert.ok(toggleRect.y + toggleRect.height <= 361, "Bottom navigation control must remain reachable");
   await page.screenshot({ path: path.join(screenshots, "gallery-landscape-open.png") });
+  const themeBeforeClick = await page.evaluate(() => localStorage.getItem("theme"));
+  await page.locator("#light-toggle").click();
+  await page.waitForFunction((previous) => localStorage.getItem("theme") !== previous, themeBeforeClick);
   console.log("PASS short landscape menu scrolling");
+  console.log("PASS landscape theme button is unobstructed and works");
 
   await page.setViewportSize({ width: 850, height: 900 });
   await page.goto(baseURL + "/gallery/", { waitUntil: "load" });
