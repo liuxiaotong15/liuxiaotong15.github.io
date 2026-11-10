@@ -248,6 +248,22 @@ ul.task-list input[type="checkbox"] {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+
+  .navbar-container {
+    max-width: 1140px;
+  }
+
+  .navbar-brand,
+  .nav-link {
+    white-space: nowrap;
+  }
+
+  @media (max-width: 1199.98px) {
+    .navbar-collapse {
+      max-height: calc(100vh - 56px);
+      overflow-y: auto;
+    }
+  }
 }
 
 .navbar .dropdown-menu {

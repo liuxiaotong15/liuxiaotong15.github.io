@@ -9,6 +9,7 @@ on:
       - "assets/**"
       - "_sass/**"
       - "_scripts/**"
+      - "_tests/**"
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -17,6 +18,8 @@ on:
       - "**.yml"
       - "Gemfile"
       - "Gemfile.lock"
+      - "package.json"
+      - "package-lock.json"
       - "!.github/workflows/axe.yml"
       - "!.github/workflows/broken-links.yml"
       - "!.github/workflows/deploy-docker-tag.yml"
@@ -38,6 +41,7 @@ on:
       - "assets/**"
       - "_sass/**"
       - "_scripts/**"
+      - "_tests/**"
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -46,6 +50,8 @@ on:
       - "**.yml"
       - "Gemfile"
       - "Gemfile.lock"
+      - "package.json"
+      - "package-lock.json"
       - "!.github/workflows/axe.yml"
       - "!.github/workflows/broken-links.yml"
       - "!.github/workflows/deploy-docker-tag.yml"
@@ -98,6 +104,22 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Check navigation in Chrome
+        if: github.event_name == 'pull_request'
+        run: |
+          npm ci
+          python3 -m http.server 4173 --bind 127.0.0.1 --directory _site > "$RUNNER_TEMP/site-preview.log" 2>&1 &
+          preview_pid=$!
+          trap 'kill "$preview_pid"' EXIT
+          node _tests/navigation.mjs
+      - name: Upload navigation screenshots
+        if: github.event_name == 'pull_request' && always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: navigation-screenshots
+          path: ${{ runner.temp }}/navigation-screenshots
+          if-no-files-found: ignore
+          retention-days: 7
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
