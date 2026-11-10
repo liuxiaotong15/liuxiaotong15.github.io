@@ -263,6 +263,11 @@ ul.task-list input[type="checkbox"] {
       max-height: calc(100vh - 56px);
       overflow-y: auto;
     }
+
+    .navbar-nav .dropdown-menu {
+      // MDB forces absolute positioning, which overlaps later collapsed menu items.
+      position: static !important;
+    }
   }
 }
 
