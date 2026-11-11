@@ -48,9 +48,30 @@ async function checkVisibleLabels() {
   assert.deepEqual(issues, [], `${page.url()}: ${issues.join("; ")}`);
 }
 
+async function checkDesktopAlignment() {
+  const alignment = await page.locator("#navbar").evaluate((nav) => {
+    const menu = nav.querySelector(".navbar-nav").getBoundingClientRect();
+    const brand = nav.querySelector(".navbar-brand")?.getBoundingClientRect();
+    const content = document.querySelector('[role="main"]').getBoundingClientRect();
+    const groupCenter = ((brand?.left ?? menu.left) + menu.right) / 2;
+    const contentCenter = (content.left + content.right) / 2;
+    return {
+      navigationOffset: Math.abs(groupCenter - contentCenter),
+      contentOffset: Math.abs(contentCenter - document.documentElement.clientWidth / 2),
+      brandGap: brand ? menu.left - brand.right : null,
+    };
+  });
+  assert.ok(alignment.navigationOffset <= 1, `Navigation is off-center: ${JSON.stringify(alignment)}`);
+  assert.ok(alignment.contentOffset <= 1, `Page content is off-center: ${JSON.stringify(alignment)}`);
+  if (alignment.brandGap !== null) {
+    assert.ok(alignment.brandGap >= 8 && alignment.brandGap <= 32, `Excessive name/menu gap: ${alignment.brandGap}px`);
+  }
+  console.log(`PASS centered desktop navigation: ${JSON.stringify(alignment)}`);
+}
+
 try {
   for (const route of ["/", "/gallery/", "/teaching/", "/publications/"]) {
-    for (const width of [320, 375, 768, 850, 1024, 1199, 1200, 1440]) {
+    for (const width of [320, 375, 768, 850, 1024, 1199, 1200, 1440, 1920]) {
       await page.setViewportSize({ width, height: 900 });
       const response = await page.goto(baseURL + route, { waitUntil: "load" });
       assert.equal(response.status(), 200);
@@ -67,6 +88,7 @@ try {
         await page.waitForFunction(() => document.querySelector("#navbarNav").classList.contains("show"));
       }
       await checkVisibleLabels();
+      if (!collapsed) await checkDesktopAlignment();
 
       if (route === "/gallery/" && [375, 850, 1200, 1440].includes(width)) {
         await page.screenshot({ path: path.join(screenshots, `gallery-${width}${collapsed ? "-open" : ""}.png`) });
@@ -90,7 +112,7 @@ try {
       }
       const height = await page.locator("#navbar").evaluate((nav) => nav.getBoundingClientRect().height);
       assert.ok(height <= 64, `Closed navigation is ${height}px tall at ${width}px`);
-      if (["/", "/gallery/", "/teaching/"].includes(route) && [375, 850, 1440].includes(width)) {
+      if ([375, 850, 1200, 1440, 1920].includes(width)) {
         await page.screenshot({ path: path.join(screenshots, `${route.split("/")[1] || "home"}-${width}.png`) });
       }
       console.log(`PASS ${route} at ${width}px: single-line labels, contained navigation, menu ${collapsed ? "opens/closes" : "expanded"}`);
