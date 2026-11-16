@@ -30,20 +30,20 @@ images:
 
 ## 报告现场（点击图片放大）
 
-<div class="row">
-  <div class="col-sm-6 mb-3">
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start;">
+  <div style="flex: 1 1 280px; min-width: 0;">
     <a href="{{ '/assets/img/20261114-energy-storage-salon/1.jpg' | relative_url }}" data-lightbox="energy-storage-salon-20261114" data-title="2026年11月14日，刘晓彤在青年科技沙龙作报告（会场全景）">
-      <img class="img-fluid rounded" src="{{ '/assets/img/20261114-energy-storage-salon/thumbs/1.jpg' | relative_url }}" alt="刘晓彤在青年科技沙龙作报告，会场屏幕展示报告内容" width="600" height="450" loading="lazy" />
+      <img class="img-fluid rounded" style="display: block; width: 100%; height: auto;" src="{{ '/assets/img/20261114-energy-storage-salon/thumbs/1.jpg' | relative_url }}" alt="刘晓彤在青年科技沙龙作报告，会场屏幕展示报告内容" width="600" height="450" loading="lazy" />
     </a>
   </div>
-  <div class="col-sm-6 mb-3">
+  <div style="flex: 1 1 280px; min-width: 0;">
     <a href="{{ '/assets/img/20261114-energy-storage-salon/2.jpg' | relative_url }}" data-lightbox="energy-storage-salon-20261114" data-title="2026年11月14日，刘晓彤讲解报告背景">
-      <img class="img-fluid rounded" src="{{ '/assets/img/20261114-energy-storage-salon/thumbs/2.jpg' | relative_url }}" alt="刘晓彤讲解报告背景，屏幕展示人工智能研究工作流相关内容" width="600" height="450" loading="lazy" />
+      <img class="img-fluid rounded" style="display: block; width: 100%; height: auto;" src="{{ '/assets/img/20261114-energy-storage-salon/thumbs/2.jpg' | relative_url }}" alt="刘晓彤讲解报告背景，屏幕展示人工智能研究工作流相关内容" width="600" height="450" loading="lazy" />
     </a>
   </div>
-  <div class="col-sm-6 mx-auto mb-3">
+  <div style="flex: 1 1 280px; min-width: 0; max-width: 450px; margin-inline: auto;">
     <a href="{{ '/assets/img/20261114-energy-storage-salon/3.jpg' | relative_url }}" data-lightbox="energy-storage-salon-20261114" data-title="2026年11月14日，刘晓彤在青年科技沙龙报告现场">
-      <img class="img-fluid rounded" src="{{ '/assets/img/20261114-energy-storage-salon/thumbs/3.jpg' | relative_url }}" alt="刘晓彤手持话筒在北京科技大学讲台前作报告" width="450" height="600" loading="lazy" />
+      <img class="img-fluid rounded" style="display: block; width: 100%; height: auto;" src="{{ '/assets/img/20261114-energy-storage-salon/thumbs/3.jpg' | relative_url }}" alt="刘晓彤手持话筒在北京科技大学讲台前作报告" width="450" height="600" loading="lazy" />
     </a>
   </div>
 </div>
